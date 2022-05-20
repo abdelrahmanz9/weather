@@ -1,0 +1,74 @@
+body{
+    background-color: #1E202B;
+}
+
+
+
+.head{
+    font-size: 1rem;
+}
+
+small{
+    font-size: 0.7rem;
+}
+
+.hero{
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    min-height: 350px
+}
+
+.today-header{
+    background-color: #2D303D;
+    
+}
+
+.weather-content{
+    background-color: #323544;
+}
+
+.num{
+    font-size: 5rem;
+    font-weight: bolder;
+    color: white;
+}
+
+.secondday-header{
+    background-color: #222530;
+}
+
+.secondday-weather-content{
+    background-color: #262936;
+}
+
+.thirdday-header{
+        background-color: #2D303D;
+}
+
+.thirdday-weather-content{
+    background-color: #323544;
+}
+
+
+#search{
+    background-color: #1E202B;
+    height: 60px;
+    border-radius: 50px;
+}
+
+.find-btn{
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    bottom: 7px;
+    padding: 5px 45px;
+    border-radius: 30px;
+    background-color: #009AD8;
+    color: white;
+}
+
+form{
+    position: relative;
+    margin-bottom: 50px;
+    
+}
